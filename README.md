@@ -58,3 +58,5 @@ Chatrix/
 <img width="1918" height="1078" alt="chatrix1" src="https://github.com/user-attachments/assets/3f7e1eb6-1f9b-4a8b-893d-527743961812" />
 <img width="1918" height="1078" alt="chatrix" src="https://github.com/user-attachments/assets/c13c8b93-f521-4514-b076-1d73bfccb73f" />
 <img width="1918" height="1078" alt="chatrix4" src="https://github.com/user-attachments/assets/8bf8ac8a-6ec9-4a4e-a738-1c4f4c8f2376" />
+---
+# The project is deployed on Render. You can access the live version here: https://chatrix-1ds2.onrender.com
